@@ -17,7 +17,7 @@ The Phonenow Call Centre Dashboard visually represents key performance indicator
 - **Weekday Call Counts**: Displays the distribution of answered calls by day of the week.
 
 ## Screenshots
-![Dashboard Screenshot](https://github.com/Devender-Singh-Bisht/Phonenow-Call-Center-Dashboard/blob/main/CallCenterdash.png) 
+![Dashboard Screenshot]([https://github.com/Devender-Singh-Bisht/Phonenow-Call-Center-Dashboard/blob/main/CallCenterdash.png](https://github.com/Devender-Singh-Bisht/Phonenow-Call-Center-Dashboard/blob/main/Call%20Center%20dash.png)) 
 
 ## Power BI File
 You can download the Power BI file from the following link:
