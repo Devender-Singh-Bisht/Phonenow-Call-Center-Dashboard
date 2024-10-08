@@ -8,7 +8,7 @@ The Phonenow Call Centre Dashboard visually represents key performance indicator
 - **Calls Answered**: Number of calls successfully answered (4054).
 - **Average Pickup Time**: Average time taken to answer calls (68 seconds).
 - **Average Call Duration**: Average duration of calls (225 seconds).
-- **Call Abandonment Rate**: Percentage of calls that were not answered (18.9%).
+- **Abandonment Rate (%)**: Percentage of calls that were not answered (18.9%).
 
 ## Charts
 - **Call Topics Distribution**: Shows percentage distribution of calls by topic, highlighting key areas such as Streaming, Technical Support, and Admin Support.
